@@ -12,3 +12,7 @@ Imported NumPy, Created Diiferent Dimensionl of Array, also used Functions to cr
 
 #### Numpy Excersie
 Numpy assigments Practice with outline questine to familirize with the code Above Click here to view code: https://github.com/sheddyranking/Machine-Leanring-Data-Science-Bootcamp.-2022/blob/main/Excercise/numpy-exercises.ipynb
+
+### The Scikit 
+This Notebook contian a detailed breakdown on how to build a Machine Learning Model, Save and load it.
+Two Machine Learn Model where build for Classification `RandomForestRegressor` problem using `heart_diseas` data & and Regression `RandomForestRegressor` problem using `Car_sales` & `California housing price` data. The Models where Evaluating on Classification and Regression Metrices and improved using `RandomSearchCV` and `GridsearchCV`.  Check-out the Notebook here:  https://github.com/sheddyranking/Machine-Leanring-Data-Science-Bootcamp.-2022/blob/main/Sci-kit-learn.ipynb
